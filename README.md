@@ -9,7 +9,7 @@ I'm a passionate developer with a focus on Android Development, Web Development,
 
 💬 Ask me about: Android Development, Web Development, Salesforce Admin, Project Management
 
-📫 How to reach me: deepanshbanga312@gmail.com | linkedin.com/in/deepansh-banga-659733288
+📫How to reach me: deepanshbanga312@gmail.com | LinkedIn
 
 ⚡ Fun fact: I love playing cricket, reading books, and I’ve scored 5-stars on Hackerrank C++ challenges.
 
