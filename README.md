@@ -34,11 +34,6 @@ GitHub Repo
 https://orvb-assist-git-main-deepanshbanga312-gmailcoms-projects.vercel.app
 Tech Stack: HTML, CSS, JavaScript, Firebase
 
-🧠 Mental Health Assistance App
-A cross-platform Flutter app designed to offer mental wellness tools and provide chatbot support for mental health. The app includes mood tracking, relaxation techniques, and professional advice.
-GitHub Repo
-Tech Stack: Flutter, Dart, Firebase
-
 💉 Organ Donation Management App
 An app for managing organ donation requests, helping users connect with potential donors or receivers. This project includes user registration, role-based access, and real-time notifications.
 GitHub Repo
